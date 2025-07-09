@@ -1,5 +1,5 @@
 # Hi, I'm Zeyad 👋
-
+![Description of image](images/zeyad.png)
  Master's student in Physics at BTU Cottbus-Senftenberg  
  Focus: Microsystems, semiconductor devices, and spectroscopic analysis  
  Currently learning Python and contributing to open-source  
