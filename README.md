@@ -1,9 +1,11 @@
 # Hi, I'm Zeyad 👋
-![Description of image](images/zeyad.png)
+![about me](images/zeyad.png)
  Master's student in Physics at BTU Cottbus-Senftenberg  
  Focus: Microsystems, semiconductor devices, and spectroscopic analysis  
  Currently learning Python and contributing to open-source  
  Interested in MEMS, chip production, and research  
+![python](images/zeyad2.png) 
+
  Languages: Kurdish [native], English [very good], German [B1], Arabic [basic]
 
 ###  Current Goals
