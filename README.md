@@ -6,7 +6,7 @@
  Interested in MEMS, chip production, and research  
 ![python](images/zeyad2.png) 
 
- Languages: Kurdish [native], English [very good], German [B1], Arabic [basic]
+ Languages: Kurdish [native], English [C1], German [B2], Arabic [B2]
 
 ###  Current Goals
 - Improve Python and coding skills
