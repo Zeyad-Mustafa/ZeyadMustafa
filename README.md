@@ -4,7 +4,7 @@
  Focus: Microsystems, semiconductor devices, and spectroscopic analysis  
  Currently learning Python and contributing to open-source  
  Interested in MEMS, chip production, and research  
-![python](images/zeyad2.png) 
+![python](images/zeyad2.png)  
 
  Languages: Kurdish [native], English [C1], German [B2], Arabic [B2]
  
