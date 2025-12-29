@@ -16,7 +16,7 @@
 ###  Contact Me
 - 📧 Email: Zeyad.uni@gmail.com 
 - 📞 Phone: +49 174 6597835
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/zeyad-mustafa-905793ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 
 
